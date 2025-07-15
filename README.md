@@ -11,7 +11,7 @@ Age - No
   
 ---
 ## Projects
-![LazyDevHelper](htts://github.com/Silletr/LazyDevHelper) (most active project)  
+[LazyDevHelper](htts://github.com/Silletr/LazyDevHelper) (most active project)  
 ---
 ## 📧 How to reach me:
 Telegram (CIS, Europe) - @Python_tor  
