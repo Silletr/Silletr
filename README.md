@@ -1,3 +1,6 @@
+[![Lua](https://img.shields.io/badge/Lua-5.4.8-purple.svg?logo=lua&logoColor=white)](https://www.lua.org/)
+[![Python](https://img.shields.io/badge/python-3.11+-blue)](https://www.python.org)
+
 ## Hi there! A bit `bout me:
 Name - Igor  
 Nationality - Ukrainian  
