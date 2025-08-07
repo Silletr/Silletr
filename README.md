@@ -25,7 +25,7 @@ Age - No
 
 ---
 ## Projects
-![LazyDevHelper](https://github.com/Silletr/LazyDevHelper) (most active project)
+![LazyDevHelper](https://github.com/Silletr/LazyDevHelper) (most active project)  
 ![SaillJack](https://github.com/Silletr/SilletrJack) (most active project #2)
 ---
 ## 📧 How to reach me:
