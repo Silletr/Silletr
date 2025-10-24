@@ -6,8 +6,12 @@ Age - No
 ---
 ## 🖥 My stack
 - 🐍 Python (3.11-3.13.3)
+
+  
 -  Lua (5.4.8)
-- 🧑‍💻 WSL (Ubuntu, 25.04)  
+![Lua logo](/lua_photo.png)
+
+- 🧑‍💻 WSL (Ubuntu, 25.04
 ---
 ## Projects
 ![LazyDevHelper](https://github.com/Silletr/LazyDevHelper) (most active project)  
