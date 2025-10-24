@@ -11,7 +11,8 @@ Age - No
 -  Lua (5.4.8)
 ![Lua logo](/lua_photo.png)
 
-- 🧑‍💻 WSL (Ubuntu, 25.04
+- 🧑‍💻 WSL (Ubuntu, 25.04)
+![WSL screenshot](/WSL_screenshot.png)
 ---
 ## Projects
 ![LazyDevHelper](https://github.com/Silletr/LazyDevHelper) (most active project)  
