@@ -7,9 +7,7 @@ Age - No
 ## 🖥 My stack
 - 🐍 Python (3.11-3.13.3)
 
-  
 -  Lua (5.4.8)
-![Lua logo](/lua_photo.png)
 
 - 🧑‍💻 WSL (Ubuntu, 25.04)
 ![WSL screenshot](/WSL_screenshot.png)
