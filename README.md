@@ -9,7 +9,7 @@ Age - No
 -  **Lua** (5.4.8)
 -  **Cargo** (1.90.0 (840b83a10 2025-07-30))
 - 🧑‍💻 **WSL** (Ubuntu, 24.04)
-![WSL screenshot](./WSL_screenshot.png)
+![WSL screenshot](https://github.com/Silletr/Silletr/blob/3bfa2b49aa18134ec5db251b7c0cf35df6964a6d/WSL_screenshot.png)
 ---
 Projects  
 ![LazyDevHelper](https://github.com/Silletr/LazyDevHelper) (most active project)  
