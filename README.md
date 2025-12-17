@@ -12,9 +12,9 @@ Age - No
 ![WSL screenshot](https://github.com/Silletr/Silletr/blob/3bfa2b49aa18134ec5db251b7c0cf35df6964a6d/WSL_screenshot.png)
 ---
 Projects  
-![LazyDevHelper](https://github.com/Silletr/LazyDevHelper) (most active project)  
-![SaillJack](https://github.com/Silletr/SilletrJack) (most active project #2)  
-![Rython](https://github.com/Silletr/Rython) (new project, too a bit active)
+![LazyDevHelper](https://github.com/Silletr/LazyDeveloperHelper) (most active project)  
+![Rython](https://github.com/Silletr/Rython) (new project, too a bit active) (most active project #2)
+![SaillJack](https://github.com/Silletr/SilletrJack) (most active project #3)  
 ---
 📧 How to reach me:  
 Telegram (CIS, Europe) - @Python_tor  
