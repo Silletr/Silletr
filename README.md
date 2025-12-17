@@ -13,7 +13,7 @@ Age - No
 ---
 Projects  
 ![LazyDevHelper](https://github.com/Silletr/LazyDeveloperHelper) (most active project)  
-![Rython](https://github.com/Silletr/Rython) (new project, too a bit active) (most active project #2)
+![Rython](https://github.com/Silletr/Rython) (new project, too a bit active) (most active project #2)  
 ![SaillJack](https://github.com/Silletr/SilletrJack) (most active project #3)  
 ---
 📧 How to reach me:  
