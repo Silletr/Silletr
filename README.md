@@ -58,12 +58,11 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Silletr&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Silletr&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats-eta-livid-24.vercel.app/api?username=Silletr&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Silletr" alt="GitHub Streak"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silletr&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats-eta-livid-24.vercel.app/api/top-langs/?username=Silletr&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
