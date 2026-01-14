@@ -22,8 +22,10 @@
   <img src="https://img.shields.io/badge/WSL-00A4EF?style=for-the-badge&logo=windows&logoColor=white" alt="WSL"/>
 </p>
 
+
 <p align="center">
-  <img src="https://github.com/Silletr/Silletr/blob/main/WSL_screenshot.png?raw=true" alt="WSL Screenshot" width="800"/>
+  <bold>My WSL settings:</bold>
+  <img width="1005" height="401" alt="image" src="https://github.com/user-attachments/assets/3bec2020-f18b-47b1-a49d-03e70a99b2ae" />
 </p>
 
 ---
