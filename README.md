@@ -24,8 +24,8 @@
 
 
 <p align="center">
-  <bold>My WSL settings:</bold>
-  <img width="1005" height="401" alt="image" src="https://github.com/user-attachments/assets/3bec2020-f18b-47b1-a49d-03e70a99b2ae" />
+  <bold>Neofetch:</bold>
+  <img alt="image" src="WSL_screenshot.png" />
 </p>
 
 ---
